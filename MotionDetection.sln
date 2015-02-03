@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MotionDetection", "MotionDetection\MotionDetection.csproj", "{09476E06-1D5F-4C84-A1FD-04A42C0D968D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09476E06-1D5F-4C84-A1FD-04A42C0D968D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09476E06-1D5F-4C84-A1FD-04A42C0D968D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09476E06-1D5F-4C84-A1FD-04A42C0D968D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09476E06-1D5F-4C84-A1FD-04A42C0D968D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
